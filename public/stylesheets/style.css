@@ -50,9 +50,10 @@ a {
 	z-index: 100;
 	margin-top:210px;
 	margin-left: 63px;
+
 }
 #happy {
-	margin-top: 200px;
+  margin-top: 200px;
     overflow: hidden;
     width: 150px;
     height: 1px;
@@ -128,6 +129,7 @@ textarea {
     margin-left: 250px;
     padding: 20px;
 }
+
 
 .center-button {
     margin-left: 600px;
